@@ -1,0 +1,15 @@
+{
+  "name": "pive-test-credentials",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@azure/arm-costmanagement": "^1.0.0-beta.1",
+    "@azure/functions": "^4.0.0",
+    "@azure/identity": "^4.0.0"
+  },
+  "main": "src/functions/*.mjs"
+}
