@@ -4,7 +4,7 @@
 
 Azure Function to test the Azure billing credentials.
 
-Perform a `POST` request to [https://pive-test.azurewebsites.net/api/PIVE-test-credentials].
+Perform a `POST` request to <https://pive-test.azurewebsites.net/api/PIVE-test-credentials>.
 Request shape:
 
 ```json
